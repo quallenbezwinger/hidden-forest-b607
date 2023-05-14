@@ -1,0 +1,8 @@
+name = "hidden-forest-b607"
+main = "src/index.js"
+compatibility_date = "2023-05-14"
+usage_model = "bundled"
+env = { }
+
+[triggers]
+crons = [ ]
